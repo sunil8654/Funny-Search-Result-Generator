@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(rgb(218, 97, 97), white,rgb(142, 205, 171)); */
+    background: #88dbf5;
+    border-radius: 10px;
+    height: 650px;
+
+}
+button{
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 7px;
+   font-size: 20px;
+}
+button:hover{
+    background-color: yellow;
+}
+label{
+    font-size: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif ;
+}
+h1{
+    
+    font-family: 'Style Script', cursive;
+   
+
+}
+
+#input{
+    font-size: 20px;
+    border-radius: 6px;
+}
